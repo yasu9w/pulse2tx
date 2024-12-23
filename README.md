@@ -9,4 +9,5 @@ For more details, check out the video below:
 Submitted to an AI Hackathon:  
 http://solanaaihackathon.com
 
-![Uploading Demo.PNG…]()
+
+![Demo](https://github.com/user-attachments/assets/ba4db4fd-2a96-412f-be79-04f0c77341c5)
